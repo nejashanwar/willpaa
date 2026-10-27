@@ -1,11 +1,11 @@
-<!-- 🌸 Nejash Anwar's Garden of Code 🌸 -->
+<!-- 🌸 Nejash's Garden of Code 🌸 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Willpaa%20%F0%9F%8C%B8&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=22&descAlignY=58" alt="Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Nejash%20Anwar%20Yusuf%20%F0%9F%8C%B8&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=22&descAlignY=58" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%8C%B8%2C+I'm+Nejash Anwar!;Full-Stack+Software+Engineer+%F0%9F%8C%BA;Where+code+blooms+into+real+solutions+%F0%9F%8C%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=800&size=28&pause=1000&color=EC4899&center=true&vCenter=true&width=720&lines=Hi+there+%F0%9F%8C%B8%2C+I'm+Nejash+Anwar+Yusuf!;Full-Stack+Software+Engineer+%F0%9F%8C%BA;Where+code+blooms+into+real+solutions+%F0%9F%8C%B7" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=520&lines=Clean+code.+Smart+design.+Real+solutions.;Thinker+%F0%9F%A7%A0+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F+%7C+Leader+%F0%9F%91%A5;Let's+grow+something+beautiful+together!+%F0%9F%8C%BB" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=560&lines=Clean+code.+Smart+design.+Real+solutions.;Thinker+%F0%9F%A7%A0+%7C+Builder+%F0%9F%9B%A0%EF%B8%8F+%7C+Leader+%F0%9F%91%A5;Let's+grow+something+beautiful+together!+%F0%9F%8C%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">🌸 ✿ ❀ 🌷 ✿ ❀ 🌼 ✿ ❀ 🌺 ✿ ❀ 🌻 ✿ ❀ 🌸</p>
@@ -28,7 +28,7 @@
 - 📋 **Project manager**: I lead teams, plan sprints and deliver on time
 - 🗂️ **Requirements engineer**: I turn real user needs into clear, testable requirements
 - 🗄️ **Database designer**: I model data carefully so systems stay fast and reliable
-- 📱 **Mobile App developer**: I create Android apps people enjoy using
+- 📱 **Mobile developer**: I create Android apps people enjoy using
 - 🤖 **AI & ML learner**: I explore intelligent systems and bring them into real software
 - ✅ **Quality-focused**: strong believer in testing and clean, maintainable code
 - 🌱 Always learning, always building, always blooming
@@ -146,7 +146,7 @@
 </p>
 
 <p align="center">
-  ⭐️ From <a href="https://github.com/willpaa">willpaa</a>
+  ⭐️ From <a href="https://github.com/willpaa"><b>Nejash Anwar Yusuf</b></a>
 </p>
 
 <p align="center">
