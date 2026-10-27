@@ -28,7 +28,7 @@
 - 📋 **Project manager**: I lead teams, plan sprints and deliver on time
 - 🗂️ **Requirements engineer**: I turn real user needs into clear, testable requirements
 - 🗄️ **Database designer**: I model data carefully so systems stay fast and reliable
-- 📱 **Mobile developer**: I create Android apps people enjoy using
+- 📱 **Mobile App developer**: I create Android apps people enjoy using
 - 🤖 **AI & ML learner**: I explore intelligent systems and bring them into real software
 - ✅ **Quality-focused**: strong believer in testing and clean, maintainable code
 - 🌱 Always learning, always building, always blooming
