@@ -1,11 +1,11 @@
-<!-- 🌸 Willpaa's Garden of Code 🌸 -->
+<!-- 🌸 Nejash Anwar's Garden of Code 🌸 -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=220&section=header&text=Willpaa%20%F0%9F%8C%B8&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Full-Stack%20Software%20Engineer&descSize=22&descAlignY=58" alt="Header" width="100%" />
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%8C%B8%2C+I'm+Willpaa!;Full-Stack+Software+Engineer+%F0%9F%8C%BA;Where+code+blooms+into+real+solutions+%F0%9F%8C%B7" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=30&pause=1000&color=EC4899&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%8C%B8%2C+I'm+Nejash Anwar!;Full-Stack+Software+Engineer+%F0%9F%8C%BA;Where+code+blooms+into+real+solutions+%F0%9F%8C%B7" alt="Typing SVG" />
 </h1>
 
 <p align="center">
